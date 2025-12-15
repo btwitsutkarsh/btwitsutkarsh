@@ -1,5 +1,7 @@
 # About Me:
-I’m Utkarsh Tripathi, a Computer Science from BITS Pilani, Dubai, focused on Data Analytics, AI systems, and workflow automation.<br>I enjoy building practical, data-driven solutions - from BI dashboards and ETL pipelines to lightweight AI models and internal tools that reduce manual effort and improve decision-making.I like working at the intersection of data analytics, and applied AI, with an emphasis on clarity, scalability, and real business impact<br>Always excited  to learn connect and collaborate<br><br> 
+I’m Utkarsh Tripathi, a Computer Science from BITS Pilani, Dubai, focused on Data Analytics, AI systems, and workflow automation.<br>I enjoy building practical, data-driven solutions - from BI dashboards and ETL pipelines to lightweight AI models and internal tools that reduce manual effort and improve decision-making.I like working at the intersection of data analytics, and applied AI, with an emphasis on clarity, scalability, and real business impact
+
+<br>Always excited  to learn connect and collaborate<br><br> 
 
 
 ## 🌐 Socials:
